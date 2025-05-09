@@ -88,8 +88,9 @@ hobbies: ["Playing guitar", "Sketching", "Reading", "Cinema", "Gymming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
-![Snake animation]
-(https://github.com/SattikBhowmick25/SattikBhowmick25/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/SattikBhowmick25/SattikBhowmick25/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
