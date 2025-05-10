@@ -39,15 +39,12 @@
 ```yaml
 name: Sattik Bhowmick
 located_in: Kolkata, India
-current_job: Front End Developer
 education:
   [
     "Self-Taught Developer",
     "Master of Computer Application",
     "Bachelor of Science in Computer Science",
   ]
-company: Soulber
-
 fields_of_interests:
   [
     "Web Development",
